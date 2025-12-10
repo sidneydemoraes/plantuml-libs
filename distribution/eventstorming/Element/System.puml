@@ -6,7 +6,7 @@ skinparam file<<System>> {
     shadowing false
     FontColor $FONT_COLOR
     BorderColor $FONT_COLOR
-    BackgroundColor #ffd1dc
+    BackgroundColor #FBC0CD
 }
 
 !procedure System($id, $label="")
