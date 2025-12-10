@@ -6,7 +6,7 @@ skinparam file<<ReadModel>> {
     shadowing false
     FontColor $FONT_COLOR
     BorderColor $FONT_COLOR
-    BackgroundColor #77dd77
+    BackgroundColor #A4FF59
 }
 
 !procedure ReadModel($id, $label="")
