@@ -6,7 +6,7 @@ skinparam file<<Command>> {
     shadowing false
     FontColor $FONT_COLOR
     BorderColor $FONT_COLOR
-    BackgroundColor #aec6cf
+    BackgroundColor #6DD6FF
 }
 
 !procedure Command($id, $label="")
