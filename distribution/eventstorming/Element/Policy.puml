@@ -6,7 +6,7 @@ skinparam file<<Policy>> {
     shadowing false
     FontColor $FONT_COLOR
     BorderColor $FONT_COLOR
-    BackgroundColor #b6a2db
+    BackgroundColor #DFD6FF
 }
 
 !procedure Policy($id, $label="")
