@@ -6,7 +6,7 @@ skinparam actor<<Person>> {
     shadowing false
     FontColor $FONT_COLOR
     BorderColor $FONT_COLOR
-    BackgroundColor #ffd1dc
+    BackgroundColor #FEFF45
 }
 
 !procedure Person($id, $label="")
