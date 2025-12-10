@@ -6,7 +6,7 @@ skinparam file<<Event>> {
     shadowing false
     FontColor $FONT_COLOR
     BorderColor $FONT_COLOR
-    BackgroundColor #ffb853
+    BackgroundColor #F7901E
 }
 
 !procedure Event($id, $label="")
