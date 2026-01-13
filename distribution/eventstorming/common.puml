@@ -2,7 +2,7 @@
 !global $INCLUSION_MODE ?= "remote"
 
 !if ($INCLUSION_MODE == "remote")
-    !global $LIB_BASE_LOCATION ?= "https://raw.githubusercontent.com/tmorin/plantuml-libs/master/distribution"
+    !global $LIB_BASE_LOCATION ?= "https://raw.githubusercontent.com/sidneydemoraes/plantuml-libs/es-colors/distribution/eventstorming"
 !else
     !global $LIB_BASE_LOCATION ?= "."
 !endif
@@ -164,3 +164,6 @@ skinparam DefaultFontColor $FONT_COLOR
         Rectangle $id <<$stereotype>>
     !endif
 !endprocedure
+
+include('bootstrap')
+
